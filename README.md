@@ -1,2 +1,2 @@
-# Pyonth-Security
+# Python-Security
 Script used for Cybersecurity analysis
